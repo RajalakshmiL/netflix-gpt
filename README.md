@@ -1,6 +1,8 @@
 # Steps
 - Create React App
 - Configured Tailwind css
+- SIgn in/Sign Up form
+- Login header
 
 
 # Features
