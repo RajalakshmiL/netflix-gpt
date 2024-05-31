@@ -1,8 +1,19 @@
 # Steps
 - Create React App
 - Configured Tailwind css
-- SIgn in/Sign Up form
-- Login header
+- Header
+- Routing of App
+- Login Formm Page
+- Sign Up form
+- Form Validation
+- useRef Hooks
+- Firebase setup (firebase.google.com)
+- Deploying our app to Production server(firebase)
+- Signup/ signIn code from firebase documentation
+- Redux library installed - Created Redux store with user slice  
+- implemented sign out
+- Update profile
+
 
 
 # Features
